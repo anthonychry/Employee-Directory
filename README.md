@@ -1,2 +1,2 @@
 # Employee-Directory
-React application
+React application with axios API to request random users
