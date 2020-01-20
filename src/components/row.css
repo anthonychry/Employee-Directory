@@ -1,0 +1,7 @@
+.row {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
